@@ -1,0 +1,44 @@
+.cont-koszyk {
+	min-height: 61vh;
+}
+.product {
+border: 1px solid #1e1c1c;
+background: #262524;
+border-radius: 10px;
+padding: 10px 20px 15px 20px;
+margin-bottom: 20px;
+margin-right: 30px;
+}
+.delete_product {
+	background: #d32f2a;
+	color:white;
+	border: none;
+	padding: 2px 7px;
+	cursor: pointer;
+}
+.koszyk_PUP_img {
+	max-width: 100px;
+	max-height: 100px;
+}
+.row_cart {
+	justify-content: flex-end;
+}
+
+
+.PUP_order_input {
+	display: block;
+    font-family: Roboto Slab,'serif';
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: #efefef;
+    margin-bottom: 10px;
+}
+.order_inp1 {
+	margin-bottom: 10px;
+}
+.PUP-zamowione {
+	color: #262625;
+	background: #cecece !important;
+}
