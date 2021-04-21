@@ -1,3 +1,6 @@
+//!!!
+//The whole script was written by an individual Rem Karablin except for sources that are highlighted as //sourse [url] ... //sourceEnd
+//!!!
 //GET ELEMENT 
 function getEl (mix) {
 	let result = document.querySelectorAll(mix);
