@@ -1,6 +1,6 @@
 # Hurtownia_kawy
  
-Strona ma za zadanie sprzedawać kawę, dodałem możliwość 
+Strona ma za zadanie sprzedawać kawę, dodałem możliwość <br>
 wyboru różnej kawy, dodanie do koszyku i zamówienie 
 które nie potrzebuje logowania.
 
